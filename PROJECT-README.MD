@@ -27,13 +27,8 @@ To view the website locally:
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/yourusername/techsolutions-website.git
-
-
-
-
-You can check out our website live at: [🔗 My portfolio website](https://chebby76.github.io/-my-portfolio-website/)
-
-
+#LIVE DEMO
+You can check out our website live at: [🔗 My portfolio website](https://chebby76.github.io/final-project-and-deployment/)
 
  
 
